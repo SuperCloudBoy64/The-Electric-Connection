@@ -698,7 +698,7 @@ body.dark-mode .picture1::after {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 20px;
-  margin: 5% 0% 10% 3.5%;
+  margin: 5% 0% 10% 2%;
 }
 
 .image-grid img {
@@ -2455,4 +2455,5 @@ address {
 
 
 /* Built by Brendan Gillikin in HTML and CSS */
+
 
