@@ -775,7 +775,7 @@ body.dark-mode .picture1::after {
 }
 
 .image-grid > a > button{
-  bottom: 18px;
+  bottom: 5px;
 }
 
 
@@ -2455,5 +2455,6 @@ address {
 
 
 /* Built by Brendan Gillikin in HTML and CSS */
+
 
 
